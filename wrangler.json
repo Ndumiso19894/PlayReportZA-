@@ -1,0 +1,5 @@
+{
+  "name": "playreport-autoposter",
+  "main": "worker.js",
+  "compatibility_date": "2025-11-22"
+}
